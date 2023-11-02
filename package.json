@@ -1,5 +1,9 @@
 {
   "name": "@naviair-utm/node-shared-interfaces",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Naviair/naviair-utm_node-shared-interfaces.git"
+  },
   "version": "1.119.0",
   "description": "",
   "main": "dist/index.js",
