@@ -2,7 +2,7 @@
   "name": "@Naviair/node-shared-interfaces",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Naviair/naviair-utm_node-shared-interfaces.git"
+    "url": "https://github.com/Naviair/node-shared-interfaces.git"
   },
   "publishConfig": {
     "@Naviair:registry": "https://npm.pkg.github.com"
